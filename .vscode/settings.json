@@ -3,4 +3,7 @@
     "editor.defaultFormatter": "ms-python.black-formatter",
     "jupyter.disableJupyterAutoStart": true,
     "notebook.lineNumbers": "on",
+    "notebook.formatOnSave.enabled": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true
 }
